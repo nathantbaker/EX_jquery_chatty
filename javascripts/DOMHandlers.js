@@ -2,7 +2,6 @@
 // Supressing JShint errors
 /* jshint -W097 */      // use strict within function only error
 
-
 $("body").click( event => {
 
   if (event.target.className === "delete") {
